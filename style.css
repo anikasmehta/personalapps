@@ -1,24 +1,57 @@
-#app {
-    width: 100%;
-    height: 800px;
-    background-color: aliceblue;
-}
-
-.container
-{
+navbar {
     text-align: center;
+    font-size: 500px;
 }
 
-#myCarousel{
-background-color: darkmagenta;    
+body {
+    text-align: center;
+    text-decoration-color: cornflowerblue;
 }
-#myCarousel img{
-    height:300px;
-margin-top: 35px;
+
+#contact {
+    width: 1500px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    background-color: deepskyblue;
+    text-align: center;
+    height:200;
 }
-.carousel-inner p{
-margin-bottom: 15px;
-margin-top: 15px;
-color:white;
-font:20px;    
+
+#VIBGYOR {
+    position: absolute;
+    height: 800px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    color: aqua;
 }
+
+p {
+    text-decoration-color: azure;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#videos {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Dosis', sans-serif;
+    background-color: cornflowerblue;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace;
+
+    center {
+        font-size: 30px;
+        background-color: cadetblue;
+    }
