@@ -19,12 +19,12 @@ body {
 
 #VIBGYOR {
     position: absolute;
-    height: 800px;
+    height: 900px;
     left: 0;
     top: 0;
     bottom: 0;
     right: 0;
-    color: aqua;
+    color:blue;
 }
 
 p {
